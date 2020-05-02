@@ -78,4 +78,6 @@ Feito isso podemos criar a tabela `crud-node` no pgAdmin, e após isso vamo roda
 $ docker-compose run nodejs node prepare.js
 ```
 
-Pronto! já temos nossa aplicação funcionando, e para isso basta acessar `http://localhost:<port>/`
+Já temos nossa aplicação funcionando, e para isso basta acessar `http://localhost:<port>/`
+
+# Pronto ;)
